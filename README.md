@@ -1,72 +1,233 @@
 <div align="center">
 
 # Muhammad Umair
-### Senior Backend & Cloud Engineer · Ruby on Rails · AWS & Alibaba Cloud · SaaS Architecture
 
-**Building reliable backend systems, scalable cloud infrastructure, and AI-enabled software products.**
+### Senior Backend Engineer · Cloud & DevOps · SaaS Architecture
+
+**Ruby on Rails | AWS | Alibaba Cloud | APIs | Distributed Systems | AI-enabled Products**
+
+I design, build, optimize, and operate software systems—from backend APIs and database models to cloud deployments and production troubleshooting.
 
 [![GitHub](https://img.shields.io/badge/GitHub-umair--murtaza--dev-181717?style=flat-square&logo=github)](https://github.com/umair-murtaza-dev)
-[![Company](https://img.shields.io/badge/Octek-Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://octek.co)
+[![Website](https://img.shields.io/badge/Website-octek.co-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://octek.co)
+![Location](https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-334155?style=flat-square)
 
 </div>
 
-## About me
+---
 
-I'm a software engineer focused on backend architecture, API development, performance, and production infrastructure. My core experience is in **Ruby on Rails**, with additional work across **AWS, Alibaba Cloud, Docker, Kubernetes, PostgreSQL, Redis, Go, Java/Spring Boot**, and modern TypeScript-based systems.
+## 👨‍💻 About me
 
-I've worked on SaaS platforms, system modernization, third-party integrations, database optimization, and cloud migrations. More recently, I've been building products that combine established backend engineering practices with AI-assisted workflows and automation.
+I'm **Muhammad Umair**, a backend-focused software engineer working across **Ruby on Rails, cloud infrastructure, DevOps, SaaS architecture, and AI-enabled applications**.
 
-## What I work on
+My engineering work spans backend feature delivery, database design, slow API investigations, Ruby/Rails upgrades, third-party integrations, containerized services, and production infrastructure. I enjoy solving problems at the intersection of application code and the systems that run it: diagnosing a slow endpoint, correcting an inefficient query, troubleshooting an ALB routing issue, or designing a SaaS architecture that remains maintainable as it grows.
 
-- **Backend engineering:** Ruby on Rails, REST APIs, ActiveRecord, SQL optimization, background jobs, and third-party integrations.
-- **Cloud & platform engineering:** AWS and Alibaba Cloud infrastructure, containerized deployments, load balancing, TLS/SNI configuration, CI/CD, networking diagnostics, and production troubleshooting.
-- **Software architecture:** SaaS platforms, multi-tenant systems, service integrations, and maintainable data models.
-- **AI-enabled applications:** workflow automation, AI-assisted analysis, and pragmatic AI features layered on reliable application backends.
-- **Delivery and quality:** RSpec, automated tests, code review, and end-to-end ownership from implementation to release.
+I have worked on commercial SaaS products and booking/rental platforms, while also developing independent products in accounting automation, AI search visibility, and developer productivity. My focus is **practical engineering: correctness, reliability, observability, security, and clear delivery**.
 
-## Selected experience
+### What I bring to a team
 
-**Secureframe — Senior Backend Engineering**  
-Ruby on Rails development, application and dependency upgrades, backend performance investigations, and AWS-related engineering.
+- **Backend ownership:** requirements → APIs and data modeling → implementation → tests → deployment → troubleshooting.
+- **Production thinking:** understand how code behaves with real data, external integrations, networks, and infrastructure.
+- **Cloud breadth:** work across both **AWS and Alibaba Cloud**, rather than treating cloud engineering as provider-specific configuration.
+- **Pragmatic architecture:** favor maintainable systems, explicit boundaries, and measurable improvements over unnecessary complexity.
+- **Cross-functional delivery:** coordinate with product, QA, platform teams, and stakeholders.
 
-**Hathi.ai — SaaS & Cloud Engineering**  
-SaaS feature development and migration of Rails-based services from Heroku to AWS.
+---
 
-**Alibaba Cloud — Infrastructure & Operations**  
-Hands-on work with Elastic Container Instance (ECI), Application Load Balancer (ALB), HTTPS certificates and SNI, wildcard DNS routing, and investigation of network and HTTP errors across cloud-hosted services.
+## 🧰 Technical toolkit
 
-**Booking & rental platforms**  
-Backend and integration experience across products including Comencia, Chaizer, and Kease.
-
-> Much of my commercial engineering work is in private repositories; the projects below are public examples and independent builds, not a complete representation of client work.
-
-## Selected GitHub projects
-
-| Project | Focus |
+| Area | Technologies and practices |
 | --- | --- |
-| [AEO / GEO Platform](https://github.com/umair-murtaza-dev/aeo-geo-platform) | Building a SaaS platform for measuring brand visibility in AI-driven search experiences. |
-| [Ledger App Backend](https://github.com/umair-murtaza-dev/ledger-app-backend) | Backend application repository demonstrating API and application engineering. |
-| [Voice Agent](https://github.com/umair-murtaza-dev/voice_agent) | Exploratory voice-agent project. |
+| **Backend** | Ruby, Ruby on Rails, REST APIs, Go, Java, Spring Boot, Node.js, Express |
+| **Frontend / full-stack** | JavaScript, TypeScript, Next.js, React |
+| **Databases & caching** | PostgreSQL, MySQL, MariaDB, Redis, SQL, ActiveRecord, schema design, query optimization |
+| **AWS** | Cloud-hosted application infrastructure, service migrations, deployment and operations |
+| **Alibaba Cloud** | Elastic Container Instance (ECI), Application Load Balancer (ALB), ECS, container networking, routing and TLS/SNI |
+| **Containers & platform** | Docker, Kubernetes, Linux, CI/CD, GitHub Actions, infrastructure troubleshooting |
+| **Testing & quality** | RSpec, automated tests, Git, code review, debugging, release validation |
+| **Architecture** | SaaS design, multi-tenancy, service integrations, background processing, access controls, observability |
+| **AI engineering** | LLM integrations, AI-assisted workflows, analytics, automation, agent-oriented application design |
 
-## Technologies
+*This is a working toolkit, not a claim of equal depth in every technology.*
 
-**Languages & frameworks:** Ruby · Ruby on Rails · Go · Java · Spring Boot · JavaScript · TypeScript · Node.js
+---
 
-**Data & messaging:** PostgreSQL · MySQL/MariaDB · Redis · SQL · Background jobs
+## 🏗️ Selected engineering experience
 
-**Cloud & delivery:** AWS · Alibaba Cloud (ECI, ALB) · Docker · Kubernetes · GitHub Actions · CI/CD · Linux · DNS · TLS/SNI
+### Secureframe — Senior Backend Engineering
 
-**Quality & design:** RSpec · REST APIs · System design · Performance optimization · Automated testing
+Worked on a Ruby on Rails SaaS backend, including:
 
-## Currently exploring
+- Building and maintaining backend capabilities and API integrations.
+- Ruby and Rails upgrades and compatibility work.
+- Investigating slow API responses with attention to application behavior, ActiveRecord queries, and database execution.
+- Supporting AWS-related backend and infrastructure engineering.
+- Working with testing, code reviews, and delivery workflows.
 
-- AI search visibility and analytics (AEO/GEO)
-- Multi-tenant SaaS architecture and product development
-- AI-assisted engineering workflows and business process automation
+**Engineering focus:** reliable APIs, performance analysis, maintainability, and safe upgrades.
 
-## Let's connect
+### Hathi.ai — SaaS & Cloud Engineering
 
-I'm interested in **senior backend engineering, Ruby on Rails, SaaS architecture, and cloud/platform engineering** opportunities, especially where reliability, ownership, and technical depth matter.
+Worked on SaaS development and application infrastructure, including:
 
-**Website:** [octek.co](https://octek.co)  
-**GitHub:** [github.com/umair-murtaza-dev](https://github.com/umair-murtaza-dev)
+- Developing SaaS capabilities and backend services.
+- Migrating Rails-based microservices from **Heroku to AWS**.
+- Working across application and deployment concerns during cloud migration.
+
+**Engineering focus:** SaaS delivery, service portability, and cloud operations.
+
+### Booking and rental platforms
+
+Experience on platforms such as **Comencia, Chaizer, and Kease**, where backend services, integrations, and dependable application workflows matter.
+
+**Engineering focus:** transactional APIs, third-party integrations, operational reliability, and domain-driven backend development.
+
+> Commercial client repositories and internal production details may be confidential. These summaries describe areas of work without publishing proprietary code or unverified business results.
+
+---
+
+## ☁️ Cloud engineering & DevOps
+
+I work across the application–infrastructure boundary: understanding not just how services are deployed, but **how DNS, TLS, load balancing, containers, runtime settings, and downstream dependencies affect user-facing behavior**.
+
+### AWS
+
+- Backend and infrastructure work supporting Ruby on Rails and SaaS platforms.
+- Service migration from Heroku to AWS.
+- Application deployment practices, CI/CD, and troubleshooting.
+- Containerization and operational coordination.
+
+### Alibaba Cloud
+
+Practical infrastructure and operations experience, including:
+
+- **ECI (Elastic Container Instance):** containerized deployments, service configuration, and runtime investigations.
+- **ALB (Application Load Balancer):** listener and backend routing, hostname-based traffic, HTTPS, and request tracing.
+- **Certificates and SNI:** multi-hostname TLS configuration and validation.
+- **DNS and wildcard routing:** subdomain records, wildcard certificates, and Cloudflare-connected domains.
+- **Diagnostics:** `nslookup`, `curl`, connection checks, ALB access logs, WAF observations, and HTTP error investigations.
+- **Windows-hosted applications:** IIS application pools, configuration, service processes, and cross-system connectivity analysis.
+
+I approach infrastructure issues by narrowing the failure domain—DNS resolution, TLS negotiation, load balancer routing, network reachability, application behavior, or dependencies—rather than guessing from a single error message.
+
+### Engineering priorities
+
+```text
+Reliable deployments
+       ↓
+Observable infrastructure
+       ↓
+Traceable application behavior
+       ↓
+Fast incident diagnosis
+       ↓
+Measured, testable improvements
+```
+
+---
+
+## 🚀 Products and systems I work on
+
+My work includes both client projects and independent product development. Project descriptions below are intentionally high level where repositories are private.
+
+### AI search visibility (AEO/GEO)
+
+An analytics-oriented SaaS platform exploring how brands appear in AI-driven discovery and answers.
+
+- Tracking mentions, citations, competitor visibility, and trends.
+- Designing reporting, analytics, and experiment workflows.
+- Working with a **Next.js / TypeScript / Express / Prisma / PostgreSQL** architecture.
+
+**Public repository:** [aeo-geo-platform](https://github.com/umair-murtaza-dev/aeo-geo-platform)
+
+### iCraft Pro — AI-assisted opportunity intelligence
+
+A SaaS-oriented tool for interpreting opportunities and supporting structured proposal workflows.
+
+- Deterministic scoring combined with AI-assisted understanding.
+- Strategy, drafting, and quality review stages.
+- Multi-tenant workspace concepts, roles, and integration boundaries.
+- Read-only integration principles rather than automated submission.
+
+**Repository:** private.
+
+### HeadZone — Education SaaS
+
+Education-focused software for schools, with attention to role-based experiences, privacy, evidence, and scalable operations.
+
+- Multiple user roles and tailored workflows.
+- School-level reporting, analytics, and evidence views.
+- Onboarding processes and platform infrastructure considerations.
+
+**Repository:** private. The product is educational, not a clinical or therapeutic service.
+
+### Accounting and workflow automation
+
+Engineering work across accounting-oriented applications and process automation.
+
+- Transaction and document workflows.
+- Data models, API boundaries, integrations, and reporting.
+- Role-specific operational views.
+- Approaches that preserve review and auditability.
+
+### Voice and agent-oriented applications
+
+Exploring voice interfaces, agent workflows, and the engineering needed to connect AI components to useful application behavior.
+
+**Public repository:** [voice_agent](https://github.com/umair-murtaza-dev/voice_agent)
+
+---
+
+## 📂 Public repositories
+
+These are selected public repositories—not a full inventory of professional work.
+
+| Repository | What it demonstrates |
+| --- | --- |
+| [**aeo-geo-platform**](https://github.com/umair-murtaza-dev/aeo-geo-platform) | Product engineering for AI search visibility analytics |
+| [**ledger-app-backend**](https://github.com/umair-murtaza-dev/ledger-app-backend) | Backend application development |
+| [**voice_agent**](https://github.com/umair-murtaza-dev/voice_agent) | Voice-agent experimentation |
+| [**ledger-demo-task**](https://github.com/umair-murtaza-dev/ledger-demo-task) | A smaller backend-oriented demonstration repository |
+
+For code-level detail, see each repository's source and documentation. Private client work is not represented by public commits.
+
+---
+
+## 🔍 How I approach engineering problems
+
+**1. Understand the behavior.** Reproduce the issue, establish expected behavior, and locate the observable failure.
+
+**2. Find the real bottleneck.** Inspect logs, API timings, SQL queries, service calls, infrastructure paths, and resource constraints before choosing a fix.
+
+**3. Prefer minimal, testable changes.** Fix the responsible layer and avoid unrelated complexity.
+
+**4. Validate beyond local success.** Consider realistic data volumes, regression tests, environment differences, and deployment behavior.
+
+**5. Document decisions.** Make trade-offs, assumptions, and operational responsibilities visible to future maintainers.
+
+This approach applies equally to **slow Rails endpoints, multi-tenant access controls, cloud routing errors, and AI-integrated workflows**.
+
+---
+
+## 🎯 Current interests
+
+- Senior Ruby on Rails and backend architecture work
+- Cloud/platform engineering across AWS and Alibaba Cloud
+- AI-enabled SaaS products with dependable backend foundations
+- Better engineering workflows using automation and AI assistance
+- Multi-tenant systems, analytics, and production reliability
+
+---
+
+## 🤝 Let's connect
+
+I'm interested in collaborating on **backend platforms, SaaS products, cloud modernization, API performance, and applied AI engineering**.
+
+- 🌐 **Website:** [octek.co](https://octek.co)
+- 💻 **GitHub:** [@umair-murtaza-dev](https://github.com/umair-murtaza-dev)
+
+<div align="center">
+
+*Build carefully. Measure what matters. Keep systems understandable.*
+
+</div>
