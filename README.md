@@ -42,7 +42,7 @@ I have worked on commercial SaaS products and booking/rental platforms, while al
 | **Frontend / full-stack** | JavaScript, TypeScript, Next.js, React |
 | **Databases & caching** | PostgreSQL, MySQL, MariaDB, Redis, SQL, ActiveRecord, schema design, query optimization |
 | **AWS** | Cloud-hosted application infrastructure, service migrations, deployment and operations |
-| **Alibaba Cloud** | Elastic Container Instance (ECI), Application Load Balancer (ALB), ECS, container networking, routing and TLS/SNI |
+| **Alibaba Cloud** | Container Service for Kubernetes (ACK), Kubernetes, Elastic Container Instance (ECI), Application Load Balancer (ALB), ECS, container networking, routing and TLS/SNI |
 | **Containers & platform** | Docker, Kubernetes, Linux, CI/CD, GitHub Actions, infrastructure troubleshooting |
 | **Testing & quality** | RSpec, automated tests, Git, code review, debugging, release validation |
 | **Architecture** | SaaS design, multi-tenancy, service integrations, background processing, access controls, observability |
@@ -101,11 +101,12 @@ I work across the application–infrastructure boundary: understanding not just 
 
 Practical infrastructure and operations experience, including:
 
+- **ACK (Container Service for Kubernetes):** managed Kubernetes infrastructure and container orchestration.
+- **Kubernetes:** application workloads, deployment configuration, and container orchestration.
 - **ECI (Elastic Container Instance):** containerized deployments, service configuration, and runtime investigations.
 - **ALB (Application Load Balancer):** listener and backend routing, hostname-based traffic, HTTPS, and request tracing.
 - **Certificates and SNI:** multi-hostname TLS configuration and validation.
 - **DNS and wildcard routing:** subdomain records, wildcard certificates, and Cloudflare-connected domains.
-- **Diagnostics:** `nslookup`, `curl`, connection checks, ALB access logs, WAF observations, and HTTP error investigations.
 - **Windows-hosted applications:** IIS application pools, configuration, service processes, and cross-system connectivity analysis.
 
 I approach infrastructure issues by narrowing the failure domain—DNS resolution, TLS negotiation, load balancer routing, network reachability, application behavior, or dependencies—rather than guessing from a single error message.
