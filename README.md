@@ -60,8 +60,8 @@ I maintain [**Engineering Case Studies**](engineering-case-studies/README.md), a
 | **Alibaba Cloud** | Container Service for Kubernetes (ACK), Kubernetes, Elastic Container Instance (ECI), Application Load Balancer (ALB), ECS, container networking, routing and TLS/SNI |
 | **Containers & platform** | Docker, Kubernetes, Linux, CI/CD, GitHub Actions, infrastructure troubleshooting |
 | **Testing & quality** | RSpec, automated tests, Git, code review, debugging, release validation |
-| **Architecture** | SaaS design, multi-tenancy, service integrations, background processing, access controls, observability |
-| **AI engineering** | LLM integrations, AI-assisted workflows, analytics, automation, agent-oriented application design |
+| **Architecture** | SaaS design, multi-tenancy, Sharetribe marketplace customization, service integrations, background processing, access controls, observability |
+| **Marketplaces & payments** | Sharetribe Marketplace APIs / SDKs, marketplace bookings, Stripe Billing/Checkout, webhooks |\n| **AI engineering** | LLM integrations, AI-assisted workflows, analytics, automation, agent-oriented application design |
 
 *This is a working toolkit, not a claim of equal depth in every technology.*
 
@@ -90,6 +90,18 @@ Worked on SaaS development and application infrastructure, including:
 - Working across application and deployment concerns during cloud migration.
 
 **Engineering focus:** SaaS delivery, service portability, and cloud operations.
+
+### Sharetribe Marketplace Engineering — Coachify USA
+
+Worked on **[Coachify USA](https://coachifyusa.com/)**, a Sharetribe-based two-sided coaching marketplace, extending marketplace functionality with custom frontend and backend services.
+
+- **Sharetribe APIs and SDKs:** integration with marketplace workflows, coach profiles, listings, search, and bookings.
+- **Custom marketplace workflows:** coach/customer experiences, profile synchronization, scheduling, dashboards, and booking-related flows.
+- **Payments and subscriptions:** Stripe Billing/Checkout integrations, subscription credits, and payment-related backend workflows.
+- **Application architecture:** React frontend, Node.js/Express services, MongoDB, and Render-hosted application/worker components.
+- **Integration engineering:** webhooks and custom services connecting Sharetribe functionality to application-specific business rules.
+
+**Engineering focus:** API-driven marketplace customization, transactional workflows, payments, and integrating managed marketplace infrastructure with bespoke application services.
 
 ### Booking and rental platforms
 
