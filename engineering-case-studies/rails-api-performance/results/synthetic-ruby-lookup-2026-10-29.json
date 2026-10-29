@@ -1,0 +1,34 @@
+{
+  "kind": "synthetic Ruby in-memory lookup benchmark (not Rails/PostgreSQL)",
+  "ruby": "3.3.8",
+  "orders": 2000,
+  "customers": 200,
+  "iterations": 10,
+  "baseline_median_ms": 18.68,
+  "indexed_median_ms": 0.31,
+  "speedup_x": 59.33,
+  "baseline_ms": [
+    18.28,
+    20.96,
+    18.62,
+    18.55,
+    17.77,
+    18.56,
+    20.89,
+    18.87,
+    19.35,
+    18.73
+  ],
+  "indexed_ms": [
+    0.41,
+    0.3,
+    0.56,
+    0.3,
+    0.32,
+    0.44,
+    0.38,
+    0.26,
+    0.21,
+    0.31
+  ]
+}
