@@ -62,3 +62,7 @@ Eager loading is a *hypothesis to test*, not a guaranteed performance win. Query
 - Baseline and optimized code commits
 - Raw benchmark output, run configuration and hardware specs
 - A summary of trade-offs and limits
+
+## Measured companion microbenchmark (2026-10-29)
+
+A separate [Ruby in-memory lookup experiment](results/README.md) and its [runnable benchmark](benchmark/lookup_benchmark.rb) compare repeated linear lookups against a hash index on synthetic records. Its recorded medians were **18.68 ms vs 0.31 ms** (10 iterations; 59.33× ratio). **These are not Rails, HTTP, ActiveRecord, SQL, or PostgreSQL measurements**, and should not be interpreted as results of the N+1 API experiment described above.
