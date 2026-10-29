@@ -34,6 +34,21 @@ I have worked on commercial SaaS products and booking/rental platforms, while al
 
 ---
 
+## 🧪 Engineering evidence & reproducible case studies
+
+I maintain [**Engineering Case Studies**](engineering-case-studies/README.md), a public collection of independent examples that demonstrate implementation decisions, verification methods, and infrastructure concepts. These are **not** client source code or claimed production benchmark results.
+
+| Case study | Evidence available |
+| --- | --- |
+| [Rails API performance](engineering-case-studies/rails-api-performance/README.md) | ActiveRecord N+1 example, optimized variant, reproducible benchmark methodology |
+| [Alibaba Cloud ACK & Kubernetes](engineering-case-studies/alibaba-ack-kubernetes/README.md) | Reference architecture and Kubernetes Deployment, Service, probes and HPA manifests |
+| [Multi-tenant SaaS isolation](engineering-case-studies/multi-tenant-saas/README.md) | Runnable authorization and cross-tenant isolation tests |
+| [Load testing & reliability](engineering-case-studies/load-testing/README.md) | k6 workload, thresholds and measurement protocol |
+
+**Evidence status:** the examples are published; performance measurements and deployed-infrastructure validation remain to be collected before making quantitative impact claims.
+
+---
+
 ## 🧰 Technical toolkit
 
 | Area | Technologies and practices |
