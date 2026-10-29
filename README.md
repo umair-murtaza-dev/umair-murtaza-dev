@@ -45,7 +45,7 @@ I maintain [**Engineering Case Studies**](engineering-case-studies/README.md), a
 | [Multi-tenant SaaS isolation](engineering-case-studies/multi-tenant-saas/README.md) | Runnable authorization and cross-tenant isolation tests |
 | [Load testing & reliability](engineering-case-studies/load-testing/README.md) | k6 workload, thresholds and measurement protocol |
 
-**Evidence status:** the examples are published; performance measurements and deployed-infrastructure validation remain to be collected before making quantitative impact claims.
+**Verified synthetic results (29 October 2026):** A [Ruby in-memory lookup benchmark](engineering-case-studies/rails-api-performance/results/README.md) recorded median execution times of **18.68 ms vs 0.31 ms** (59.33× ratio) on synthetic data. A [tenant-isolation unit test run](engineering-case-studies/multi-tenant-saas/results/2026-10-29-unit-tests.md) passed **4/4 tests**. These are *not* production Rails/API performance figures or proof of deployed SaaS security. Alibaba Cloud ACK deployment validation remains pending.
 
 ---
 
