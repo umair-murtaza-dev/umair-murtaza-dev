@@ -2,11 +2,11 @@
 
 # Muhammad Umair
 
-### Senior Backend Engineer · Cloud & DevOps · SaaS Architecture
+### Senior Software Engineer · Cloud & DevOps Architect · AI & Integrations
 
-**Ruby on Rails | AWS | Alibaba Cloud | APIs | Distributed Systems | AI-enabled Products**
+**10 years of software engineering · Backend & SaaS · Cloud Infrastructure · AI Agents & RAG · API Integrations**
 
-I design, build, optimize, and operate software systems—from backend APIs and database models to cloud deployments and production troubleshooting.
+I build and operate secure, scalable software systems, from backend APIs and SaaS products to cloud infrastructure, automated deployments and AI-enabled workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-umair--murtaza--dev-181717?style=flat-square&logo=github)](https://github.com/umair-murtaza-dev)
 [![Website](https://img.shields.io/badge/Website-octek.co-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://octek.co)
@@ -16,21 +16,19 @@ I design, build, optimize, and operate software systems—from backend APIs and 
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-I'm **Muhammad Umair**, a backend-focused software engineer working across **Ruby on Rails, cloud infrastructure, DevOps, SaaS architecture, and AI-enabled applications**.
+I'm Muhammad Umair, a software engineer with 10 years of experience across backend development, SaaS architecture, cloud infrastructure and technical delivery. I work across the application and infrastructure boundary, with a focus on reliable systems, measurable improvements and practical business outcomes.
 
-My engineering work spans backend feature delivery, database design, slow API investigations, Ruby/Rails upgrades, third-party integrations, containerized services, and production infrastructure. I enjoy solving problems at the intersection of application code and the systems that run it: diagnosing a slow endpoint, correcting an inefficient query, troubleshooting an ALB routing issue, or designing a SaaS architecture that remains maintainable as it grows.
+| Engineering focus | What I work on |
+| --- | --- |
+| **Backend & SaaS** | Ruby on Rails, APIs, distributed services, multi-tenancy, database performance and integrations |
+| **Cloud & DevOps** | AWS, Alibaba Cloud, Hetzner, Terraform, Docker, Kubernetes, CI/CD, monitoring and incident response |
+| **AI & integrations** | AI agents, retrieval-augmented generation (RAG), voice workflows, LLM integrations and automation |
+| **Marketplaces & business systems** | Sharetribe, Stripe billing and checkout, webhooks, accounting and ERP workflows |
+| **Security & reliability** | IAM, access controls, tenant isolation, secure deployments, load testing and troubleshooting |
 
-I have worked on commercial SaaS products and booking/rental platforms, while also developing independent products in accounting automation, AI search visibility, and developer productivity. My focus is **practical engineering: correctness, reliability, observability, security, and clear delivery**.
-
-### What I bring to a team
-
-- **Backend ownership:** requirements → APIs and data modeling → implementation → tests → deployment → troubleshooting.
-- **Production thinking:** understand how code behaves with real data, external integrations, networks, and infrastructure.
-- **Cloud breadth:** work across both **AWS and Alibaba Cloud**, rather than treating cloud engineering as provider-specific configuration.
-- **Pragmatic architecture:** favor maintainable systems, explicit boundaries, and measurable improvements over unnecessary complexity.
-- **Cross-functional delivery:** coordinate with product, QA, platform teams, and stakeholders.
+I favor evidence-driven technical decisions: diagnose before redesigning, automate repeatable work, and validate changes with tests and operational metrics.
 
 ---
 
@@ -53,15 +51,15 @@ I maintain [**Engineering Case Studies**](engineering-case-studies/README.md), a
 
 | Area | Technologies and practices |
 | --- | --- |
-| **Backend** | Ruby, Ruby on Rails, REST APIs, Go, Java, Spring Boot, Node.js, Express |
+| **Backend** | Ruby, Ruby on Rails, Python, REST APIs, Go, Java, Spring Boot, Node.js, Express |
 | **Frontend / full-stack** | JavaScript, TypeScript, Next.js, React |
 | **Databases & caching** | PostgreSQL, MySQL, MariaDB, Redis, SQL, ActiveRecord, schema design, query optimization |
 | **AWS** | Cloud-hosted application infrastructure, service migrations, deployment and operations |
 | **Alibaba Cloud** | Container Service for Kubernetes (ACK), Kubernetes, Elastic Container Instance (ECI), Application Load Balancer (ALB), ECS, container networking, routing and TLS/SNI |
-| **Containers & platform** | Docker, Kubernetes, Linux, CI/CD, GitHub Actions, infrastructure troubleshooting |
+| **Containers & platform** | Docker, Kubernetes, Linux, Terraform, CI/CD, GitHub Actions, Jenkins, infrastructure troubleshooting |
 | **Testing & quality** | RSpec, automated tests, Git, code review, debugging, release validation |
 | **Architecture** | SaaS design, multi-tenancy, Sharetribe marketplace customization, service integrations, background processing, access controls, observability |
-| **Marketplaces & payments** | Sharetribe Marketplace APIs / SDKs, marketplace bookings, Stripe Billing/Checkout, webhooks |\n| **AI engineering** | LLM integrations, AI-assisted workflows, analytics, automation, agent-oriented application design |
+| **Marketplaces & payments** | Sharetribe Marketplace APIs / SDKs, marketplace bookings, Stripe Billing/Checkout, webhooks |\n| **AI engineering** | AI agents, RAG, LLM integrations, voice workflows, analytics and automation |
 
 *This is a working toolkit, not a claim of equal depth in every technology.*
 
@@ -237,19 +235,18 @@ This approach applies equally to **slow Rails endpoints, multi-tenant access con
 
 ---
 
-## 🎯 Current interests
+## Current engineering focus
 
-- Senior Ruby on Rails and backend architecture work
-- Cloud/platform engineering across AWS and Alibaba Cloud
-- AI-enabled SaaS products with dependable backend foundations
-- Better engineering workflows using automation and AI assistance
-- Multi-tenant systems, analytics, and production reliability
+- **Cloud platform engineering:** infrastructure as code, high availability, secure CI/CD and cost optimization.
+- **AI infrastructure:** exploring Amazon Bedrock AgentCore, independently deployed multi-agent systems, MCP/A2A, agent identity and sandbox payment workflows. These are learning and reference-project goals, not completed production deployments.
+- **Business software:** accounting automation, ERP workflows, marketplace integrations and secure authentication tooling.
+- **Backend architecture:** reliable APIs, distributed systems, multi-tenant isolation and performance engineering.
 
 ---
 
 ## 🤝 Let's connect
 
-I'm interested in collaborating on **backend platforms, SaaS products, cloud modernization, API performance, and applied AI engineering**.
+I'm interested in senior engineering and technical architecture engagements across **backend platforms, cloud modernization, SaaS, applied AI, and API integrations**.
 
 - 🌐 **Website:** [octek.co](https://octek.co)
 - 💻 **GitHub:** [@umair-murtaza-dev](https://github.com/umair-murtaza-dev)
